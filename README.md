@@ -10,4 +10,4 @@ Desenvolvimento de Site nas Linguagens HTML e CSS
 
 Estudante🥇*Victor Hugo Vieira Biron* N:*27*
 
-Estudante🥈*Rodrigo Mendes De Oliveira Junior* *N:33*
+Estudante🥈*Ketelin Kaessa Ireno da Silva* *N:48*
