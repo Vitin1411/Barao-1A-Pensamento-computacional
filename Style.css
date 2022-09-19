@@ -2,4 +2,9 @@ body {
     text-align: center;
     background-color: rgb(139, 0, 0);
 }
-    
+.capa{
+    width: 100%;
+}
+    .beneficios_imagem{
+        width: 60%;
+    }
