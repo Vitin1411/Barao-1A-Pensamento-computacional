@@ -3,23 +3,23 @@ body {
     background-color: rgb(139, 0, 0);
 }
 .capa{
-    width: 80%;
+    width: 60%;
 }
-    .beneficios_imagem{
+    .beneficios-imagem{
         width: 40%;
     }
     .beneficios {
         width: 100%;
         text-align: line-through;
-        background-color: azure;
+        background-color: rgb(124, 0, 0);
     }
 
     ul{
         display: inline-block;
         vertical-align: top;
-        margin-right: 100px;
+        margin-right: 600px;
     }
     li{
-        padding: 25px;
-        font-size: 20px;
+        padding: 50px;
+        font-size: 40px;
     }
