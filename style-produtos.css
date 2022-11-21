@@ -1,7 +1,5 @@
 @import url('https;//font.googleapis.com/css2?family=lobster&display=swap');
 
-
-
 body {
     font-family: "lobster", cursive;
     text-align: center;
@@ -55,23 +53,6 @@ nav a:hover {
     transition: 0.5;
 }
 
-.capa{
-    width: 65%;
+.imagem-produto{
+    width: 100%;
 }
-    .beneficios{
-        text-align: left;
-        background-color: rgba(194, 6, 6, 0.897);
-    }
-
-    ul{
-        display: inline-block;
-        vertical-align: top;
-        margin-right: 100px;
-    }
-    li{
-        padding: 25px;
-        font-size: 20px;
-    }
-    .foto-beneficio{
-        width: 40%;
-    }
