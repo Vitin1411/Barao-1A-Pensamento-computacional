@@ -5,7 +5,7 @@ body {
     text-align: center;
     background-color: rgb(139, 0, 0);
     margin: 0;
-
+    color: white;
 }
 header{
     padding: 20px 0;
@@ -40,8 +40,8 @@ nav {
 nav a{
     font-size: 20px;
     padding-left: 20px;
-    color: brown;
-    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
     text-transform: uppercase;
 }
 
@@ -53,6 +53,22 @@ nav a:hover {
     transition: 0.5;
 }
 
+.produtos{
+width: 940px;
+margin: 0 auto;
+padding: 50px 0;
+}
+
+.produtos li{ 
+display: inline-block;
+width: 30%;
+vertical-align: top;
+margin: 0 1.5%;
+padding: 30px 20px;
+box-sizing: border-box;
+border: 2px solid black;
+}
+
 .imagem-produto{
-    width: 80%;
+    width: 100%;
 }
